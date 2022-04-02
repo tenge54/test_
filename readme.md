@@ -1,3 +1,1 @@
-# Hi
-
-# Deez nuts
+# this is my very first readme file on GitHub, Hello World!
